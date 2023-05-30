@@ -1,0 +1,21 @@
+  .background-container {
+    background-image: url('../images/kahoot_homepage.png'); /* Update the path to your image */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .button-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  
+  
+  
